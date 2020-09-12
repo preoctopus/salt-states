@@ -1,2 +1,2 @@
 vim-full:
-  - pkg.installed
+  pkg.installed
