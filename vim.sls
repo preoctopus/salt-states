@@ -1,0 +1,2 @@
+vim-full:
+  - pkg.installed
